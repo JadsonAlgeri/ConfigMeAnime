@@ -1,0 +1,6 @@
+@ConfigMeAnime.Api_HostAddress = http://localhost:5133
+
+GET {{ConfigMeAnime.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
